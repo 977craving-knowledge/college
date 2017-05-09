@@ -1,0 +1,28 @@
+body{
+	padding: 100px;
+}
+
+h1{
+	text-align: center;
+	font-size: 80px;
+	color: #ff0000;
+}
+
+/*#box{
+	width: 66%;
+	height: 45%;
+	margin: 10%;
+	padding: 5%;
+	font-size: 350%;		
+	background: #555555;
+}*/
+
+#circle{
+	background: #f3c90f;
+	width: 250px;
+	height: 250px;
+	top: 100px;
+	left: 100px;
+	border-radius: 200px;
+	position: absolute;/*checks the position*/
+}
